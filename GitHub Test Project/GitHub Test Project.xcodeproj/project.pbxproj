@@ -483,6 +483,7 @@
 				FBC0211316528E27005BCD0A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		FBC0211416528E27005BCD0A /* Build configuration list for PBXNativeTarget "GitHub Test ProjectTests" */ = {
 			isa = XCConfigurationList;
@@ -491,6 +492,7 @@
 				FBC0211616528E27005BCD0A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
